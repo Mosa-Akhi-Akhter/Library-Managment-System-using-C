@@ -1,2 +1,2 @@
-# library.
-Software-Development-Project-1-Library-management-system-main
+# Software_Development-1 Library management system
+Library management system
